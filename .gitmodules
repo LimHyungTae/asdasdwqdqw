@@ -1,0 +1,3 @@
+[submodule "hello_submodule"]
+	path = hello_submodule
+	url = git@github.com:LimHyungTae/hello_subtree.git
